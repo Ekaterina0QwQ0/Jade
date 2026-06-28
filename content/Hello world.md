@@ -1,1 +1,1 @@
-[[content/index]]
+Индекс файл: [[content/index]]
